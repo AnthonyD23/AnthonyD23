@@ -1,0 +1,3 @@
+- Hi, I’m Anthony👋
+- I’m interested in 🤓`coding`, 🎮gaming, 🎥movies, 🍫chocolate
+- I’m currently learning [Pygame](https:www.pygame.org)
